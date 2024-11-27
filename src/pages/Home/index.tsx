@@ -3,7 +3,7 @@ import React from 'react';
 const Home = () => {
   return (
     <>
-      <div>홈 화면</div>
+      <div>어드민 홈 화면</div>
     </>
   );
 };
